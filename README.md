@@ -19,6 +19,6 @@ Technologies Used:
 . Streamlit: For building the interactive web application.
 . Plotly: For creating dynamic visualizations and maps.
 . MySQL: For data storage and retrieval.
-. Python:For programming
-. Libraries: Pandas,Numpy
+. Python:For programming.
+. Libraries: Pandas,Numpy.
 
